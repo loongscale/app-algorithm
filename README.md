@@ -8,3 +8,4 @@
 
 ## XXTEA：xxtea常规解密（java）
 
+## des: des常规解密 (js)
