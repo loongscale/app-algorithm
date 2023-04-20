@@ -9,3 +9,5 @@
 ## XXTEA：xxtea常规解密（java）
 
 ## des: des常规解密 (js)
+
+## SlidVerification: 常规滑动验证运动轨迹 (python)
